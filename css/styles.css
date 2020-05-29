@@ -20,16 +20,13 @@ h1 {
   margin-bottom: 20px;
 }
 
-.section-header {
-  font-family: 'Kavivanar', cursive;
-}
-
-.projects h4 {
-  text-decoration: underline;
-}
-
 h2 {
   margin-bottom: 20px;
+}
+
+span {
+  font-weight: bold;
+  font-style: italic;
 }
 
 img {
@@ -37,6 +34,14 @@ img {
   width: 30%;
   margin-right: 20px;
   max-width: 200px;
+}
+
+.section-header {
+  font-family: 'Kavivanar', cursive;
+}
+
+.projects h4 {
+  text-decoration: underline;
 }
 
 .projects, .background, footer {
