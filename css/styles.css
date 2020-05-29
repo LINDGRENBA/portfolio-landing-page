@@ -6,10 +6,12 @@ html, body {
 body {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
+  background-color: #495867;
 }
 
 header {
   min-width: 650px;
+  color: #495867;
 }
 
 h1 {
@@ -35,6 +37,7 @@ img {
 .projects, .background, footer {
   font-size: 1.2em;
   line-height: 1.5em;
+  color: lightgrey;
 }
 
 footer {
