@@ -1,4 +1,4 @@
-/* Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats. */
+/* Project includes a custom-made stylesheet that uses typography styles, cascading, the box modelYES, and floatsYES. */
 
 html, body {
   margin: 0;
@@ -13,7 +13,25 @@ header {
 img {
   float: left;
   width: 30%;
-  padding: 10px;
-  padding-top: 20px;
-  max-width: 250px;
+  margin-right: 20px;
+  max-width: 200px;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
+
+@media screen and (max-width: 965px) {
+  .hobbies {
+    text-align: center;
+  }
+
+  .hobbies h3 {
+    padding-left: 35px;
+  }
+
+  ol {
+    list-style-type: none;
+  }
 }
