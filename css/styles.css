@@ -3,11 +3,24 @@
 html, body {
   margin: 0;
   padding: 0;
+}
+
+body {
   box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
 }
 
 header {
   min-width: 650px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive, sans-serif;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
 }
 
 img {
@@ -15,6 +28,11 @@ img {
   width: 30%;
   margin-right: 20px;
   max-width: 200px;
+}
+
+.projects, .background, footer {
+  font-size: 1.2em;
+  line-height: 1.5em;
 }
 
 footer {
@@ -35,6 +53,9 @@ footer {
     list-style-type: none;
   }
 }
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Pacifico', cursive; */
 
 /* COLOR PALLATE 
 $desert-sand: #ecc8afff;
