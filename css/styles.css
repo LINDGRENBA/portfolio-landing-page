@@ -23,6 +23,10 @@ h1 {
   font-family: 'Kavivanar', cursive;
 }
 
+.projects h4 {
+  text-decoration: underline;
+}
+
 h2 {
   margin-bottom: 20px;
 }
@@ -38,6 +42,7 @@ img {
   font-size: 1.2em;
   line-height: 1.5em;
   color: lightgrey;
+  padding-top: 20px;
 }
 
 footer {
