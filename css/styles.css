@@ -44,6 +44,10 @@ img {
   text-decoration: underline;
 }
 
+.projects div {
+  padding: 20px;
+}
+
 .projects, .background, footer {
   font-size: 1.2em;
   line-height: 1.5em;
@@ -67,12 +71,6 @@ footer {
 
   ol {
     list-style-type: none;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .projects .row div {
-    padding: 10px;
   }
 }
 
