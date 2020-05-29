@@ -6,7 +6,7 @@
 
 ## Description
 
-Here you can find projects I have worked on before and during my time at Epicodus and see how I have progressed as a developer over time.
+Here you can find projects I have worked on before and during my time at Epicodus and see how I have progressed as a developer over time. You can [view this project here](https://lindgrenba.github.io/portfolio-landing-page/) through GitHub gh-pages.
 
 ## Setup/Installation Requirements
 
@@ -26,8 +26,9 @@ Please feel free to contact me through GitHub (username: LINDGRENBA) with any qu
 
 ## Technologies Used
 
-* HTML
-* CSS
+* HTML5
+* CSS3
+* Bootstrap v3.3.7
 
 ### License
 
