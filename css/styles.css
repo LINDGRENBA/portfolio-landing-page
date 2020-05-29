@@ -1,0 +1,19 @@
+/* Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats. */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  min-width: 650px;
+}
+
+img {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  padding-top: 20px;
+  max-width: 250px;
+}
