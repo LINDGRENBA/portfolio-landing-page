@@ -71,6 +71,22 @@ footer {
   text-align: center;
 }
 
+a:link {
+  color: #e7ad99
+}
+
+a:visited {
+  color: #e7ad99
+}
+
+a:hover {
+  color: #e7ad99
+}
+
+a:active {
+  color: #c18c5d;
+}
+
 @media screen and (max-width: 965px) {
   .hobbies {
     text-align: center;
