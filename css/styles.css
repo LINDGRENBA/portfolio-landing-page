@@ -39,12 +39,15 @@ ul {
 }
 
 img {
+  opacity: 0.85;
+  border-radius: 3px;
+}
+
+.author-img {
   float: left;
   width: 30%;
   margin-right: 20px;
   max-width: 200px;
-  border-radius: 3px;
-  opacity: 0.85;
 }
 
 .section-header{
@@ -73,6 +76,13 @@ img {
   line-height: 1.5em;
   color: lightgrey;
   padding-top: 20px;
+}
+
+.gemma-img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 20px;
 }
 
 footer {
@@ -109,6 +119,12 @@ a:active {
 
   ol {
     list-style-type: none;
+  }
+}
+
+@media screen and (max-width: 995px) {
+  .gemma-img {
+    display: none;
   }
 }
 
